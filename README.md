@@ -48,6 +48,11 @@ Outside of coding, I enjoy cooking, American Football and Baseball.
 ### 📫 Connect
 
 - LinkedIn: [Alfie King](https://uk.linkedin.com/in/alfie-king-73b5ab223?trk=people-guest_people_search-card)
-- maybe personal site: [Data School Profile](https://www.thedataschool.co.uk/blog/alfie-king/)
+- Personal site: [Data School Profile](https://www.thedataschool.co.uk/blog/alfie-king/)
+- Tableau Public: [Tableau Public](https://public.tableau.com/app/profile/alfie.king/vizzes)
+
+---
+
+### 🏅 Badges
 
 
